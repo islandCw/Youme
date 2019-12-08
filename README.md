@@ -2,6 +2,9 @@
 
 ## 1.即时通讯IM
 
+   游密应用开发者提供完整的即时通讯聊天系统解决方案。
+   即时通讯SDK以开发者需求与用户体验为依归，致力于打造一套应用开发者能够以极低的成本让自身拥有发送文字、语音、表情等消息及管理私聊、群聊、大型直播聊天室等社交能力。（SDK下载地址里包含API接入介绍手册文档）
+
 *  YoumeIM_SDK_Android版本下载地址：->[Youme IM SDK for Android](https://github.com/youmesdk/YoumeIMSDK_Android)  
    YoumeIM_Demo_Android版本下载地址：->[Youme IM Demo for Android](http://dl2.youme.im/release/YIM_Android2_2.x.zip)
      
@@ -30,6 +33,8 @@
 
 ## 2.实时语音Talk
 
+   游密实时语音通讯云SDK是游密科技公司旗下的一款专注于为开发者提供实时音视频技术和服务的云产品。通过接入SDK，能够让您轻松实现游戏内小队语音、游戏指挥、语音主播电台、多人语聊房间等多项功能。（SDK下载地址包含有API接入手册文档）
+
 *  YoumeTalk_SDK安卓版本下载地址：->[Youme Talk SDK for Android](https://github.com/youmesdk/YoumeTalkSDK_Android)  
    YoumeTalk_Demo安卓版本下载地址：->[Youme Talk Demo for Android](https://github.com/youmesdk/YoumeTalkDemo_Android)
 
@@ -54,6 +59,8 @@
  
  
  ## 3.实时视频Video
+ 
+   游密实时音视频通讯云SDK是游密科技公司旗下的一款专注于为开发者提供实时音视频技术和服务的云产品。通过接入SDK，能够让您轻松实现多人视频聊天、视频互动直播、办公协作、远程医疗、在线教育等多个应用场景。（下面的SDK下载地址包含API接入手册文档）
  
 *  YoumeVideo_SDK安卓版本下载地址：->[Youme Video SDK for Android](https://github.com/youmesdk/YoumeVideoSDK_Android)  
    YoumeVideo_Demo安卓版本下载地址：->[Youme Video Demo for Android](https://github.com/youmesdk/YoumeVideoDemo_Android)
