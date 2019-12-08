@@ -2,7 +2,7 @@
 
 ## 1.即时通讯IM
 
-   游密应用开发者提供完整的即时通讯聊天系统解决方案。
+   游密应用开发者提供完整的即时通讯聊天系统解决方案。  
    即时通讯SDK以开发者需求与用户体验为依归，致力于打造一套应用开发者能够以极低的成本让自身拥有发送文字、语音、表情等消息及管理私聊、群聊、大型直播聊天室等社交能力。（SDK下载地址里包含API接入介绍手册文档）
 
 *  YoumeIM_SDK_Android版本下载地址：->[Youme IM SDK for Android](https://github.com/youmesdk/YoumeIMSDK_Android)  
